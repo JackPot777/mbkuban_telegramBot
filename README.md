@@ -1,4 +1,4 @@
 # mbkuban_telegramBot
 Information Bot
 
-![Alt Text](https://media.giphy.com/media/m95M3tMG71k5iZPAyG/giphy.gif)
+![Alt Text](https://media.giphy.com/media/CjVB39aAO1SnyNClZn/giphy.gif)
